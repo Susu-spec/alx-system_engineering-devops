@@ -1,1 +1,1 @@
-# This repository is my introduction to fundamental shell scripting concepts
+# This repository is my introduction to basic shell scripting concepts
